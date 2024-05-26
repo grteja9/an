@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Aaditya News !!! </h1>
+<h1> Hi, Welcome to Aaditya News !!! </h1>
 
