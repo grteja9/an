@@ -1,2 +1,3 @@
-# an
-aadityanews
+# maven-project
+
+Simple Maven Project
